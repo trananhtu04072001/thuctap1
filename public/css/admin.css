@@ -1,0 +1,93 @@
+.detail {
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+}
+.infor {
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    margin: auto;
+    margin-top: 60px;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+}
+.inforup {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.level {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.regisadmin {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.typeform {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.brandform {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.groupform {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.atrform {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.formproduct {
+    margin: auto;
+}
+.event {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.eventpro {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.shipform {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.bannerform {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+}
+.import {
+    width: 1000px;
+    height: 300px;
+    margin-left: 40px;
+}
+.importdetail {
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.orderdetail table {
+  width: 700px;
+  height: 400px;
+  margin: auto;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.orderprod {
+    padding: 20px;
+}
